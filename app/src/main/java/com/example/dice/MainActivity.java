@@ -47,4 +47,4 @@ private fun diceRoll() {
         Toast.makeText(this ,"dice is rolled",Toast.LENGTH_SHORT).show()
 
         }
-        }
+        
